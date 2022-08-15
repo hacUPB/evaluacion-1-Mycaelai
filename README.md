@@ -12,7 +12,7 @@ El trabajo realizado fue uno para evaluar los contenidos de la unidad 1, Control
 https://www.youtube.com/watch?v=HNJYsFfz8kU
 
 Git commands list:</br>
-• git clone -> clonar repo.
-• git add -> poner archivo en STAGE.
-• git commit -m "commit argument" -> Commit en repo local.
+• git clone -> clonar repo.</br>
+• git add -> poner archivo en STAGE.</br>
+• git commit -m "commit argument" -> Commit en repo local.</br>
 • git push -> sincronización con repo remoto.
